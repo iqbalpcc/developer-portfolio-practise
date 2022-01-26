@@ -1,3 +1,55 @@
 body{
     margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Merriweather', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+.flexible-container{
+    display: flex;
+    
+}
+
+.home-page{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    height: 565px;
+}
+
+.half-width{
+    width: 40%;
+    padding-left: 7%;
+}
+
+.half-width h1{
+    font-size: 2.5em;
+    font-weight: bolder; 
+}
+.half-width a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    font-weight: 900;
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+}
+.half-width p{
+    margin-bottom: 30px;
+}
+.half-width img{
+    width: 100%;
+    
+}
+
+.orange-color{
+    color: orange;
+}
+
+.text-part{
+    margin-top: 2%;
 }
