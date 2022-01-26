@@ -17,7 +17,7 @@ body{
 .home-page{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-    height: 565px;
+    height: 550px;
 }
 
 .half-width{
@@ -60,10 +60,44 @@ body{
     background-repeat: no-repeat;
     background-position: right;
     background-position-y: bottom;
+    height: 450px;
     
 }
 
 .dream-big .half-width p {
     margin-bottom: 40px;
     text-align: justify;
+}
+
+.dream-big img{
+    width: 90%;
+    margin-top: 3%;
+}
+.experiences-part{
+    height: 500px;
+}
+.experiences-part h1{
+    font-size: 2.5em;
+
+}
+
+.experiences-part h3{
+    
+}
+
+.half-width-ex{
+    width: 38%;
+    margin-left: 5%;
+    padding: 10px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 5px green;
+}
+
+.half-width-ex-1{
+    margin-left: 5%;
+
+}
+.half-width-ex-2{
+margin-left: 8%;
+
 }
